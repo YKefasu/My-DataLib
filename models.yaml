@@ -105,6 +105,7 @@ sd-1/controlnet/lineart:
 
 sd-1/controlnet/lineart_anime:
    repo_id: lllyasviel/control_v11p_sd15s2_lineart_anime
+   recommended: False
 
 sd-1/controlnet/openpose:
    repo_id: lllyasviel/control_v11p_sd15_openpose
